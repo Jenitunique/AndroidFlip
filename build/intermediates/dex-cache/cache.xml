@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/mildly/Documents/Android Project/android_page_curl-master1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="eaae855d57d685eb7432d887222afa23eaac756d">
+        <dex dex="/home/mildly/Documents/Android Project/android_page_curl-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e9e107cb134a63b8aa10186263a6032c09e27d30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mildly/Documents/Android Project/android_page_curl-master1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="29c4af19365bdbd551dad7f3da8c76f2d4aaa18e">
+        <dex dex="/home/mildly/Documents/Android Project/android_page_curl-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_adee0036c6836e40f7bb0e81de833bd4e02628f7/classes.dex" />
+    </item>
+
+</items>

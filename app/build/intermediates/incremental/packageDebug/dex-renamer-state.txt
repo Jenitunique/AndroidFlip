@@ -1,0 +1,7 @@
+#Tue Apr 25 18:14:25 IST 2017
+base.0=/home/mildly/Documents/Android Project/android_page_curl-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e9e107cb134a63b8aa10186263a6032c09e27d30
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/mildly/Documents/Android Project/android_page_curl-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_adee0036c6836e40f7bb0e81de833bd4e02628f7/classes.dex
+base.1=/home/mildly/Documents/Android Project/android_page_curl-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_adee0036c6836e40f7bb0e81de833bd4e02628f7
+file.0=/home/mildly/Documents/Android Project/android_page_curl-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e9e107cb134a63b8aa10186263a6032c09e27d30/classes.dex

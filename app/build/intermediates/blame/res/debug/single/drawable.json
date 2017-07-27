@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/mildly/Documents/Android Project/android_page_curl-master1/app/build/intermediates/res/merged/debug/drawable/world.gif",
+        "source": "/home/mildly/Documents/Android Project/android_page_curl-master1/app/src/main/res/drawable/world.gif"
+    },
+    {
+        "merged": "/home/mildly/Documents/Android Project/android_page_curl-master1/app/build/intermediates/res/merged/debug/drawable/road_rage.jpg",
+        "source": "/home/mildly/Documents/Android Project/android_page_curl-master1/app/src/main/res/drawable/road_rage.jpg"
+    },
+    {
+        "merged": "/home/mildly/Documents/Android Project/android_page_curl-master1/app/build/intermediates/res/merged/debug/drawable/bed.jpg",
+        "source": "/home/mildly/Documents/Android Project/android_page_curl-master1/app/src/main/res/drawable/bed.jpg"
+    },
+    {
+        "merged": "/home/mildly/Documents/Android Project/android_page_curl-master1/app/build/intermediates/res/merged/debug/drawable/obama.jpg",
+        "source": "/home/mildly/Documents/Android Project/android_page_curl-master1/app/src/main/res/drawable/obama.jpg"
+    },
+    {
+        "merged": "/home/mildly/Documents/Android Project/android_page_curl-master1/app/build/intermediates/res/merged/debug/drawable/jeans.jpg",
+        "source": "/home/mildly/Documents/Android Project/android_page_curl-master1/app/src/main/res/drawable/jeans.jpg"
+    },
+    {
+        "merged": "/home/mildly/Documents/Android Project/android_page_curl-master1/app/build/intermediates/res/merged/debug/drawable/laptop.jpg",
+        "source": "/home/mildly/Documents/Android Project/android_page_curl-master1/app/src/main/res/drawable/laptop.jpg"
+    },
+    {
+        "merged": "/home/mildly/Documents/Android Project/android_page_curl-master1/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/mildly/Documents/Android Project/android_page_curl-master1/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/mildly/Documents/Android Project/android_page_curl-master1/app/build/intermediates/res/merged/debug/drawable/token.jpg",
+        "source": "/home/mildly/Documents/Android Project/android_page_curl-master1/app/src/main/res/drawable/token.jpg"
+    },
+    {
+        "merged": "/home/mildly/Documents/Android Project/android_page_curl-master1/app/build/intermediates/res/merged/debug/drawable/taipei_101.jpg",
+        "source": "/home/mildly/Documents/Android Project/android_page_curl-master1/app/src/main/res/drawable/taipei_101.jpg"
+    },
+    {
+        "merged": "/home/mildly/Documents/Android Project/android_page_curl-master1/app/build/intermediates/res/merged/debug/drawable/room.jpg",
+        "source": "/home/mildly/Documents/Android Project/android_page_curl-master1/app/src/main/res/drawable/room.jpg"
+    }
+]
