@@ -14,7 +14,7 @@
    limitations under the License.
  */
 
-package fi.harism.curl;
+package com.jenitunique.pageCurl;
 
 import java.util.Vector;
 
